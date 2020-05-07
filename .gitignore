@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+public/uploads/cv/*
+public/uploads/perfiles/*
+variables.env
